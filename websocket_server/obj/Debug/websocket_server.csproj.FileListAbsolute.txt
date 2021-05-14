@@ -1,0 +1,10 @@
+D:\Repos\WebsocketMultiConnect\websocket_server\bin\Debug\websocket_server.exe.config
+D:\Repos\WebsocketMultiConnect\websocket_server\bin\Debug\websocket_server.exe
+D:\Repos\WebsocketMultiConnect\websocket_server\bin\Debug\websocket_server.pdb
+D:\Repos\WebsocketMultiConnect\websocket_server\bin\Debug\websocket-sharp.dll
+D:\Repos\WebsocketMultiConnect\websocket_server\bin\Debug\websocket-sharp.xml
+D:\Repos\WebsocketMultiConnect\websocket_server\obj\Debug\websocket_server.csprojAssemblyReference.cache
+D:\Repos\WebsocketMultiConnect\websocket_server\obj\Debug\websocket_server.csproj.CoreCompileInputs.cache
+D:\Repos\WebsocketMultiConnect\websocket_server\obj\Debug\websocket_server.csproj.CopyComplete
+D:\Repos\WebsocketMultiConnect\websocket_server\obj\Debug\websocket_server.exe
+D:\Repos\WebsocketMultiConnect\websocket_server\obj\Debug\websocket_server.pdb
